@@ -1,0 +1,5 @@
+E:\Kendall Task\GUIApplication\Debug\GUIApplication.vcxprojAssemblyReference.cache
+E:\Kendall Task\GUIApplication\Debug\GUIApplication.exe
+E:\Kendall Task\GUIApplication\Debug\GUIApplication.pdb
+E:\Kendall Task\GUIApplication\Debug\GUIApplication.MainPage.resources
+E:\Kendall Task\GUIApplication\Debug\GUIApplication.vcxproj.GenerateResource.cache
